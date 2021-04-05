@@ -1,0 +1,17 @@
+.header-container {
+    background-color: #7b59ff;
+    padding: 10px;
+
+    .header-links-container {
+        align-items: center;
+        display: flex !important;
+        justify-content: space-evenly;
+
+        .header-link {
+            color: rgba(0,0,0,.85);
+            font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+            font-size: 1.1em;
+            font-weight: 700;
+        }
+    }
+}

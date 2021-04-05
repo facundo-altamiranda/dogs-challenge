@@ -1,0 +1,16 @@
+.my-team-container {
+    margin: 25px 0;
+
+    .member-container {
+        align-items: center;
+        display: flex !important;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .member-image {
+        height: 150px !important;
+        object-fit: cover;
+        margin-bottom: 10px;
+    }
+}

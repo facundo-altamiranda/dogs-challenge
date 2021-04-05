@@ -1,0 +1,25 @@
+.breed-header {
+    margin-top: 25px !important;
+}
+
+.breed-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    .breed-image {
+        height: 300px !important;
+        object-fit: contain;
+        margin: 25px ;
+    }
+}
+
+.BrainhubCarouselItem {
+    flex-direction: column;
+}
+
+.BrainhubCarousel__container {
+    width: 80%;
+    margin: auto;
+}
